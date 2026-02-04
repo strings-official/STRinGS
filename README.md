@@ -3,8 +3,8 @@
         <span style="font-size:0.6em;">WACV 2026</span>
     </h1>
     <p style="font-size:1.2em;">
-        <a href="https://www.linkedin.com/in/abhinav-raundhal/">Abhinav Raundhal<sup>*</sup></a>,
-        <a href="https://www.linkedin.com/in/gauravbehera/">Gaurav Behera<sup>*</sup></a><br>
+        <a href="https://www.linkedin.com/in/abhinav-raundhal/">Abhinav Raundhal</a><sup>*</sup>,
+        <a href="https://www.linkedin.com/in/gauravbehera/">Gaurav Behera</a><sup>*</sup>,<br>
         <a href="https://faculty.iiit.ac.in/~pjn/">P. J. Narayanan</a>,
         <a href="https://ravika.github.io/">Ravi Kiran Sarvadevabhatla</a>,
         <a href="https://makarandtapaswi.github.io/">Makarand Tapaswi</a>
